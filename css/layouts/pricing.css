@@ -9,13 +9,17 @@ body {
 h2, h3 {
     letter-spacing: 0.25em;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 300;
 }
 
 p {
     line-height: 1.6em;
 }
 
+li {
+    padding-top: 15px;
+    padding-right: 60px;
+}
 
 /*
  * -- Layout Styles --
@@ -228,3 +232,4 @@ p {
         font-size: 3em;
     }
 }
+
