@@ -9,7 +9,7 @@ body {
 h2, h3 {
     letter-spacing: 0.25em;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 300 !important;
 }
 
 p {
